@@ -20,7 +20,7 @@ body{
 	margin-top: 120px;
 	margin-bottom: 30px;
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-device-width: 900px) {
 	.my_image > img{
 		width: 25%;
 	}
@@ -42,7 +42,7 @@ h1{
 	padding: 30px 0px 90px 0px;
 	margin: 0px;
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-device-width: 700px) {
 	h1{
 		font-size: 1rem;
 	}
@@ -61,7 +61,7 @@ h1{
 .intro > p{
 	opacity: 0.8;
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-device-width: 700px) {
 	.intro{
 		font-size: 0.9rem;
 		letter-spacing: 0.8px;
@@ -73,7 +73,7 @@ h1{
 	margin-bottom: 46px;
 	font-size: 1.5rem;
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-device-width: 700px) {
 	.web_in_progress{
 		font-size: 1.1rem;
 		}
@@ -84,7 +84,7 @@ h1{
 .glyph{
 	margin: 60px 300px 70px 300px;
 }
-@media only screen and (max-width: 900px){
+@media only screen and (max-device-width: 900px){
 	.glyph{
 		margin: 7em;
 	}
@@ -103,7 +103,7 @@ h1{
 	letter-spacing: 1px;
 	opacity: 0.8;
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-device-width: 700px) {
 	.project_showcase_text{
 		font-size: 1.5rem;
 	}
@@ -148,7 +148,7 @@ h1{
 	padding: 10px 30px 40px 30px;
 	/*text-align: ;*/
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-device-width: 900px) {
 	.container{
 		grid-template-columns: 1fr;
 		grid-gap: 0;
@@ -156,7 +156,7 @@ h1{
 		font-size: 0.8rem;
 	}
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-device-width: 700px) {
 	.container{
 		grid-template-columns: 1fr;
 		grid-gap: 0;
@@ -189,7 +189,7 @@ h1{
 	font-size: 1rem;
 	line-height: 2rem;
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-device-width: 900px) {
 	.container_1_inside > p{
 		font-size: 0.7rem;
 		line-height: 1.2rem;
@@ -212,49 +212,8 @@ h1{
   	font-size: 2rem;
   	
 }
-.@media only screen and (max-width: 900px) {
+.@media only screen and (max-device-width: 900px) {
 	.inside_footer{
 		font-size: 1.5rem;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
