@@ -191,7 +191,7 @@ h1{
 }
 @media only screen and (max-device-width: 900px) {
 	.container_1_inside > p{
-		font-size: 0.7rem;
+		/*font-size: 0.7rem;*/
 		line-height: 1.2rem;
 	}
 	.container_1{
